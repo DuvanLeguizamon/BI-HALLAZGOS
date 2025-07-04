@@ -240,5 +240,5 @@ combined_df.to_excel(save_path,index=False)
 
 # %%
 print("Archivo exportado en: C:/Users/jose.alonso/OneDrive - Grupo Express/Python/BI HALLAZGOS/BASE FINAL/archivo_combinado.xlsx")
-
+print("Archivo exportado en: C:/Users/jose.alonso/OneDrive - Grupo Express/Python/BI HALLAZGOS/BASE FINAL/archivo_combinado.xlsx")
 
